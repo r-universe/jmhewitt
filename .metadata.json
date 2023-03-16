@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bisque",
+    "oncran": true
+  },
+  {
+    "package": "telefit",
+    "oncran": true
+  }
+]
